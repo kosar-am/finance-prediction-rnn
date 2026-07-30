@@ -1,1 +1,23 @@
+# ============================================================
+# Google Stock Price Prediction using RNN, LSTM, and GRU
+# Python Dependencies
+# ============================================================
 
+# Core Libraries
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Data Visualization
+matplotlib>=3.8.0
+
+# Machine Learning
+scikit-learn>=1.4.0
+tensorflow>=2.16.0
+
+# Financial Data
+yfinance>=0.2.50
+
+# Jupyter Notebook
+jupyter>=1.1.0
+notebook>=7.0.0
+ipykernel>=6.29.0
